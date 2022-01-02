@@ -60,7 +60,15 @@ For the code to be small enough, we had to remove the image outputs within the n
 - **Part 2: Spacio-Temporal Interest Points Detection and Feature Extraction in Human Action Videos**
 
 <p align="center">
-    Blob Detection
+  <img width="255" height="200" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_box.mp4?raw=true">
+  <img width="255" height="200" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/blob2_multi.png?raw=true">
+  <img width="255" height="200" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/blob2_multi.png?raw=true">
+</p>
+
+<p align="center">
+  <img width="255" height="200" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/blob1_in.jpg?raw=true">
+  <img width="255" height="200" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/blob2_multi.png?raw=true">
+  <img width="255" height="200" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/blob2_multi.png?raw=true">
 </p>
 
 put images here
