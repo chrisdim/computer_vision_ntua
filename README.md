@@ -10,7 +10,9 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 - Part 1: Edge Detection in Grayscale Images
 
-![alt text](https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/edge_in.jpg?raw=true)
+<p align="center" width="300">
+    ![alt text](https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/edge_in.jpg?raw=true)
+</p>
 
 
 - Part 2: Interest Point Detection 
