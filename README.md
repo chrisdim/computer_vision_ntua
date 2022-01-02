@@ -51,13 +51,13 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 ## Lab 2: Optical Flow Estimation and Feature Extraction in Videos for Action Recognition
 
-- Part 1: Face and hands tracking using Lucas-Kanade Optical Flow Method
+- **Part 1: Face and hands tracking using Lucas-Kanade Optical Flow Method**
 
 <p align="center">
   <img width="350" height="350"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/lk_method.gif?raw=true">
 </p>
 
-- Part 2: Spacio-Temporal Interest Points Detection and Feature Extraction in Human Action Videos 
+- **Part 2: Spacio-Temporal Interest Points Detection and Feature Extraction in Human Action Videos**
 
 <p align="center">
     Blob Detection
