@@ -85,7 +85,7 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 ## Exercise 3.6: One-Step Metric Rectification for the removal of the projective and affine distortion components
 
-In this optional exercise we were asked to implement a one-step metric rectification algorithm based on the book of 
+In this optional exercise we were asked to implement a one-step metric rectification algorithm based on [1]. The algorithm gets an image as input that seems as if it was taken from the side. The output is an approximation of the photo, if it was taken from the front.
 
 <p align="center">
   <img width="440" height="260" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/paintings.jpg?raw=true">
@@ -95,21 +95,6 @@ In this optional exercise we were asked to implement a one-step metric rectifica
 </p>
 
 ---
-references:
-  - id: fenner2012a
-    title: One-click science marketing
-    author:
-      - family: Fenner
-        given: Martin
-    container-title: Nature Materials
-    volume: 11
-    URL: "https://dx.doi.org/10.1038/nmat3283"
-    DOI: 10.1038/nmat3283
-    issue: 4
-    publisher: Nature Publishing Group
-    page: 261-263
-    type: article-journal
-    issued:
-      year: 2012
-      month: 3
----
+[1] Hartley - Zisserman, Multiple View Geometry in Computer Vision, 2nd edition, Cambridge Uni- versity Press, 2000
+
+
