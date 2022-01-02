@@ -85,9 +85,31 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 ## Exercise 3.6: One-Step Metric Rectification for the removal of the projective and affine distortion components
 
+In this optional exercise we were asked to implement a one-step metric rectification algorithm based on the book of 
+
 <p align="center">
   <img width="440" height="260" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/paintings.jpg?raw=true">
 </p>
 <p align="center">
   <img width="460" height="280" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/rectified.png?raw=true">
 </p>
+
+---
+references:
+  - id: fenner2012a
+    title: One-click science marketing
+    author:
+      - family: Fenner
+        given: Martin
+    container-title: Nature Materials
+    volume: 11
+    URL: "https://dx.doi.org/10.1038/nmat3283"
+    DOI: 10.1038/nmat3283
+    issue: 4
+    publisher: Nature Publishing Group
+    page: 261-263
+    type: article-journal
+    issued:
+      year: 2012
+      month: 3
+---
