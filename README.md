@@ -28,9 +28,11 @@ For the code to be small enough, we had to remove the image outputs within the n
   <img width="350" height="230" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/corner_out.png?raw=true">
 </p>
 
+**
 <p align="center">
-    **Blob Detection**
+    Blob Detection
 </p>
+**
 
 <p align="center">
   <img width="340" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob1_in.jpg?raw=true">
