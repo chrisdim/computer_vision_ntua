@@ -13,7 +13,7 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 <p align="center">
   <img width="350" height="350" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/edge_in.jpg?raw=true">
-  <img width="350" height="350" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/edge_out.jpg?raw=true">
+  <img width="350" height="350" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/edge_out.png?raw=true">
 </p>
 
 
