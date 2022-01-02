@@ -95,6 +95,6 @@ In this optional exercise we were asked to implement a one-step metric rectifica
 </p>
 
 ---
-[1] Hartley - Zisserman, Multiple View Geometry in Computer Vision, 2nd edition, Cambridge Uni- versity Press, 2000
+[1] Hartley - Zisserman, Multiple View Geometry in Computer Vision, 2nd edition, Cambridge University Press, 2000
 
 
