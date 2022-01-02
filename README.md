@@ -83,3 +83,9 @@ For the code to be small enough, we had to remove the image outputs within the n
   <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_walk.gif?raw=true">
 </p>
 
+## Exercise 3.6: One-Step Metric Rectification for the removal of the projective and affine distortion component
+
+<p align="center">
+  <img width="335" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/paintings.jpg?raw=true">
+  <img width="335" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/rectified.png?raw=true">
+</p>
