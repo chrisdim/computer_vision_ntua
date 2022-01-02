@@ -1,6 +1,6 @@
 # Computer Vision - NTUA (2020-2021)
 
-This repository hosts the **problem sets** and **lab projects** of the Computer Vision course held by ECE NTUA during the Spring 2021.
+This repository hosts the **lab projects** and **theoretical problem sets** of the Computer Vision course held by ECE NTUA during the Spring 2021.
 
 # Lab Projects
 
