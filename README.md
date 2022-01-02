@@ -60,14 +60,14 @@ For the code to be small enough, we had to remove the image outputs within the n
 - **Part 2: Spacio-Temporal Interest Points Detection and Feature Extraction in Human Action Videos**
 
 <p align="center">
-  <img width="255" height="180"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_box.gif?raw=true">
-  <img width="255" height="180"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_run.gif?raw=true">
-  <img width="255" height="180"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_walk.gif?raw=true">
+  <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_box.gif?raw=true">
+  <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_run.gif?raw=true">
+  <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/harris_walk.gif?raw=true">
 </p>
 
 <p align="center">
-  <img width="255" height="180"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_box.gif?raw=true">
-  <img width="255" height="180"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_run.gif?raw=true">
-  <img width="255" height="180"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_walk.gif?raw=true">
+  <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_box.gif?raw=true">
+  <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_run.gif?raw=true">
+  <img width="270" height="210"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/gabor_walk.gif?raw=true">
 </p>
 
