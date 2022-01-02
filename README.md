@@ -53,15 +53,12 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 - Part 1: Face and hands tracking using Lucas-Kanade Optical Flow Method
 
-put images here
-
-- Part 2: Spacio-Temporal Interest Points Detection and Feature Extraction in Human Action Videos 
-
 <p align="center">
-    Corner Detection
+  <img width="220" height="340"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/lk_method.gif?raw=true">
+  <img width="220" height="345"  alt="animated" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab2/README_imgs/lk_method_multi.gif?raw=true">
 </p>
 
-put images here
+- Part 2: Spacio-Temporal Interest Points Detection and Feature Extraction in Human Action Videos 
 
 <p align="center">
     Blob Detection
