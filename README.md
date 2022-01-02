@@ -91,7 +91,7 @@ In this optional exercise we were asked to implement a one-step metric rectifica
   <img width="440" height="260" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/paintings.jpg?raw=true">
 </p>
 <p align="center">
-  <img width="460" height="280" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/rectified.png?raw=true">
+  <img width="460" height="290" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/problem_sets/rectified.png?raw=true">
 </p>
 
 ---
