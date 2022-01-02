@@ -8,7 +8,7 @@ This repository hosts the **lab projects** and **theoretical problem sets** of t
 
 For the code to be small enough, we had to remove the image outputs within the notebooks. The code is structured to simply run it and produce the images (after arranging the directories with the input images a little bit).
 
-- Part 1: Edge Detection in Grayscale Images
+- Part 1: Edge Detection in Grayscale and Real Images
 
 
 <p align="center">
