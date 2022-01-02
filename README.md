@@ -34,12 +34,12 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 <p align="center">
   <img width="340" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob1_in.jpg?raw=true">
-  <img width="350" height="230" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob1_out.png?raw=true">
+  <img width="350" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob1_out.png?raw=true">
 </p>
 
 <p align="center">
   <img width="340" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob2_in.png?raw=true">
-  <img width="350" height="230" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob2_out.png?raw=true">
+  <img width="350" height="220" src="https://github.com/d-dimos/computer_vision_ntua/blob/master/labs/lab1/README_imgs/blob2_out.png?raw=true">
 </p>
 
 - Part 3: Image Matching and Classification using Local Descriptors on Interest Points
