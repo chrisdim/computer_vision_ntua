@@ -19,8 +19,10 @@ For the code to be small enough, we had to remove the image outputs within the n
 
 - **Part 2: Interest Point Detection**
 
-<p align="center" bgcolor = "#0000FF">
+<p align="center">
+<b>
     Corner Detection
+</b>
 </p>
 
 <p align="center">
@@ -29,7 +31,9 @@ For the code to be small enough, we had to remove the image outputs within the n
 </p>
 
 <p align="center">
+<b>
     Blob Detection
+</b>
 </p>
 
 <p align="center">
