@@ -2,6 +2,8 @@
 
 This repository hosts the **lab projects** and **theoretical problem sets** of the Computer Vision course held by ECE NTUA during the Spring 2021.
 
+- Loyal Friend and Lab Partner: [Christos Dimopoulos](https://github.com/chrisdim)
+
 # Lab Projects
 
 ## Lab 1: Interest Point Detection and Feature Extraction in Images
